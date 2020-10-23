@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Follow your dreams, believe in yourself and remember to be AWESOME!!
 Use the left arrow to go back!
